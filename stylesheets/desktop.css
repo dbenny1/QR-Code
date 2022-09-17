@@ -1,0 +1,7 @@
+@media (min-width: 1200px) {
+    .container {
+        max-width: 25%;
+        margin: 4rem auto;
+        border-radius: 20px;
+    }
+}
